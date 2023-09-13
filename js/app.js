@@ -6,7 +6,7 @@ console.log (fullName);
 /*2*/
 let a=20;
 let b=30;
-let p=(a+b)*2;
+let p=a*b;
 console.log (`${p}`);
 /*3*/
 let faktorial=10**6;
